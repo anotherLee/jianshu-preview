@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/jianshu-preview/static/js/main.816803e6.chunk.js",
-    "main.js.map": "/jianshu-preview/static/js/main.816803e6.chunk.js.map",
+    "main.js": "/jianshu-preview/static/js/main.3a954706.chunk.js",
+    "main.js.map": "/jianshu-preview/static/js/main.3a954706.chunk.js.map",
     "runtime-main.js": "/jianshu-preview/static/js/runtime-main.3c9c30e3.js",
     "runtime-main.js.map": "/jianshu-preview/static/js/runtime-main.3c9c30e3.js.map",
     "static/js/2.a4bb17cd.chunk.js": "/jianshu-preview/static/js/2.a4bb17cd.chunk.js",
     "static/js/2.a4bb17cd.chunk.js.map": "/jianshu-preview/static/js/2.a4bb17cd.chunk.js.map",
     "index.html": "/jianshu-preview/index.html",
-    "precache-manifest.7eae2915f2d9965753bd7c5b0b9c1da6.js": "/jianshu-preview/precache-manifest.7eae2915f2d9965753bd7c5b0b9c1da6.js",
+    "precache-manifest.ff9146216cd44b85132139ba3e0d3ff7.js": "/jianshu-preview/precache-manifest.ff9146216cd44b85132139ba3e0d3ff7.js",
     "service-worker.js": "/jianshu-preview/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.3c9c30e3.js",
     "static/js/2.a4bb17cd.chunk.js",
-    "static/js/main.816803e6.chunk.js"
+    "static/js/main.3a954706.chunk.js"
   ]
 }
